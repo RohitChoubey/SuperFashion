@@ -1,0 +1,17 @@
+/*
+Theme Name: Bridge Child
+Theme URI: http://demo.qodeinteractive.com/bridge/
+Description: A child theme of Bridge Theme
+Author: Qode Interactive
+Author URI: http://www.qodethemes.com/
+Version: 1.0.0
+Template: bridge
+*/
+@import url("../bridge/style.css");
+
+input.wpcf7-form-control.wpcf7-quiz{
+	width:100% !important;
+}
+input.wpcf7-form-control.wpcf7-quiz{
+	margin-left:0px !important;
+}
