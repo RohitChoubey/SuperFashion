@@ -1,4 +1,3 @@
-<?php session_start(); ?>
 <header class=" has_top scroll_top  fixed scrolled_not_transparent page_header">
 	<div class="header_inner clearfix">
 		<div class="header_top_bottom_holder">

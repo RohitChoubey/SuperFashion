@@ -389,6 +389,134 @@
 
 	<div id="dropDownSelect1"></div>
 	
+	<script type='text/javascript' src='file/wp-content/plugins/contact-form-7/includes/js/scripts7752.js?ver=5.2.1'></script>
+	<script type='text/javascript' src='file/wp-content/plugins/stock-ticker/assets/js/jquery.webticker.min1f44.js?ver=2.2.0.1'></script>
+	<script type='text/javascript' src='file/wp-content/plugins/stock-ticker/assets/js/jquery.stockticker.min128b.js?ver=3.1'></script>
+	<script type='text/javascript' src='file/wp-includes/js/jquery/ui/core.mine899.js?ver=1.11.4'></script>
+	<script type='text/javascript' src='file/wp-includes/js/jquery/ui/widget.mine899.js?ver=1.11.4'></script>
+	<script type='text/javascript' src='file/wp-includes/js/jquery/ui/accordion.mine899.js?ver=1.11.4'></script>
+	<script type='text/javascript' src='file/wp-includes/js/jquery/ui/position.mine899.js?ver=1.11.4'></script>
+	<script type='text/javascript' src='file/wp-includes/js/jquery/ui/menu.mine899.js?ver=1.11.4'></script>
+	<script type='text/javascript' src='file/wp-includes/js/dist/vendor/wp-polyfill.min89b1.js?ver=7.4.4'></script>
+	<script type='text/javascript'>
+	('fetch' in window) || document.write('<script src="file/wp-includes/js/dist/vendor/wp-polyfill-fetch.min6e0e.js?ver=3.0.0"></scr' + 'ipt>');
+	(document.contains) || document.write('<script src="file/wp-includes/js/dist/vendor/wp-polyfill-node-contains.min2e00.js?ver=3.42.0"></scr' + 'ipt>');
+	(window.DOMRect) || document.write('<script src="file/wp-includes/js/dist/vendor/wp-polyfill-dom-rect.min2e00.js?ver=3.42.0"></scr' + 'ipt>');
+	(window.URL && window.URL.prototype && window.URLSearchParams) || document.write('<script src="file/wp-includes/js/dist/vendor/wp-polyfill-url.min5aed.js?ver=3.6.4"></scr' + 'ipt>');
+	(window.FormData && window.FormData.prototype.keys) || document.write('<script src="file/wp-includes/js/dist/vendor/wp-polyfill-formdata.mine9bd.js?ver=3.0.12"></scr' + 'ipt>');
+	(Element.prototype.matches && Element.prototype.closest) || document.write('<script src="file/wp-includes/js/dist/vendor/wp-polyfill-element-closest.min4c56.js?ver=2.0.2"></scr' + 'ipt>');
+	</script>
+	<script type='text/javascript' src='file/wp-includes/js/dist/dom-ready.min8293.js?ver=91fc8f05178d5c6365aec778f840ae17'></script>
+	<script type='text/javascript' src='file/wp-includes/js/dist/a11y.min2902.js?ver=45f739d280d1244f6cb498ed8f1bf042'></script>
+	<script type='text/javascript'>
+	/* <![CDATA[ */
+	var uiAutocompleteL10n = {
+		"noResults": "No results found.",
+		"oneResult": "1 result found. Use up and down arrow keys to navigate.",
+		"manyResults": "%d results found. Use up and down arrow keys to navigate.",
+		"itemSelected": "Item selected."
+	};
+	/* ]]> */
+	</script>
+	<script type='text/javascript' src='file/wp-includes/js/jquery/ui/autocomplete.mine899.js?ver=1.11.4'></script>
+	<script type='text/javascript' src='file/wp-includes/js/jquery/ui/button.mine899.js?ver=1.11.4'></script>
+	<script type='text/javascript' src='file/wp-includes/js/jquery/ui/datepicker.mine899.js?ver=1.11.4'></script>
+	<script type='text/javascript'>
+	jQuery(document).ready(function(jQuery) {
+		jQuery.datepicker.setDefaults({
+			"closeText": "Close",
+			"currentText": "Today",
+			"monthNames": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
+			"monthNamesShort": ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"],
+			"nextText": "Next",
+			"prevText": "Previous",
+			"dayNames": ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
+			"dayNamesShort": ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"],
+			"dayNamesMin": ["S", "M", "T", "W", "T", "F", "S"],
+			"dateFormat": "MM d, yy",
+			"firstDay": 1,
+			"isRTL": false
+		});
+	});
+	</script>
+	<script type='text/javascript' src='file/wp-includes/js/jquery/ui/mouse.mine899.js?ver=1.11.4'></script>
+	<script type='text/javascript' src='file/wp-includes/js/jquery/ui/resizable.mine899.js?ver=1.11.4'></script>
+	<script type='text/javascript' src='file/wp-includes/js/jquery/ui/draggable.mine899.js?ver=1.11.4'></script>
+	<script type='text/javascript' src='file/wp-includes/js/jquery/ui/dialog.mine899.js?ver=1.11.4'></script>
+	<script type='text/javascript' src='file/wp-includes/js/jquery/ui/droppable.mine899.js?ver=1.11.4'></script>
+	<script type='text/javascript' src='file/wp-includes/js/jquery/ui/progressbar.mine899.js?ver=1.11.4'></script>
+	<script type='text/javascript' src='file/wp-includes/js/jquery/ui/selectable.mine899.js?ver=1.11.4'></script>
+	<script type='text/javascript' src='file/wp-includes/js/jquery/ui/sortable.mine899.js?ver=1.11.4'></script>
+	<script type='text/javascript' src='file/wp-includes/js/jquery/ui/slider.mine899.js?ver=1.11.4'></script>
+	<script type='text/javascript' src='file/wp-includes/js/jquery/ui/spinner.mine899.js?ver=1.11.4'></script>
+	<script type='text/javascript' src='file/wp-includes/js/jquery/ui/tooltip.mine899.js?ver=1.11.4'></script>
+	<script type='text/javascript' src='file/wp-includes/js/jquery/ui/tabs.mine899.js?ver=1.11.4'></script>
+	<script type='text/javascript' src='file/wp-includes/js/jquery/ui/effect.mine899.js?ver=1.11.4'></script>
+	<script type='text/javascript' src='file/wp-includes/js/jquery/ui/effect-blind.mine899.js?ver=1.11.4'></script>
+	<script type='text/javascript' src='file/wp-includes/js/jquery/ui/effect-bounce.mine899.js?ver=1.11.4'></script>
+	<script type='text/javascript' src='file/wp-includes/js/jquery/ui/effect-clip.mine899.js?ver=1.11.4'></script>
+	<script type='text/javascript' src='file/wp-includes/js/jquery/ui/effect-drop.mine899.js?ver=1.11.4'></script>
+	<script type='text/javascript' src='file/wp-includes/js/jquery/ui/effect-explode.mine899.js?ver=1.11.4'></script>
+	<script type='text/javascript' src='file/wp-includes/js/jquery/ui/effect-fade.mine899.js?ver=1.11.4'></script>
+	<script type='text/javascript' src='file/wp-includes/js/jquery/ui/effect-fold.mine899.js?ver=1.11.4'></script>
+	<script type='text/javascript' src='file/wp-includes/js/jquery/ui/effect-highlight.mine899.js?ver=1.11.4'></script>
+	<script type='text/javascript' src='file/wp-includes/js/jquery/ui/effect-pulsate.mine899.js?ver=1.11.4'></script>
+	<script type='text/javascript' src='file/wp-includes/js/jquery/ui/effect-size.mine899.js?ver=1.11.4'></script>
+	<script type='text/javascript' src='file/wp-includes/js/jquery/ui/effect-scale.mine899.js?ver=1.11.4'></script>
+	<script type='text/javascript' src='file/wp-includes/js/jquery/ui/effect-shake.mine899.js?ver=1.11.4'></script>
+	<script type='text/javascript' src='file/wp-includes/js/jquery/ui/effect-slide.mine899.js?ver=1.11.4'></script>
+	<script type='text/javascript' src='file/wp-includes/js/jquery/ui/effect-transfer.mine899.js?ver=1.11.4'></script>
+	<script type='text/javascript' src='file/wp-content/themes/bridge/js/plugins/doubletaptogo7263.js?ver=5.4.4'></script>
+	<script type='text/javascript' src='file/wp-content/themes/bridge/js/plugins/modernizr.min7263.js?ver=5.4.4'></script>
+	<script type='text/javascript' src='file/wp-content/themes/bridge/js/plugins/jquery.appear7263.js?ver=5.4.4'></script>
+	<script type='text/javascript' src='file/wp-includes/js/hoverIntent.minc245.js?ver=1.8.1'></script>
+	<script type='text/javascript' src='file/wp-content/themes/bridge/js/plugins/counter7263.js?ver=5.4.4'></script>
+	<script type='text/javascript' src='file/wp-content/themes/bridge/js/plugins/easypiechart7263.js?ver=5.4.4'></script>
+	<script type='text/javascript' src='file/wp-content/themes/bridge/js/plugins/mixitup7263.js?ver=5.4.4'></script>
+	<script type='text/javascript' src='file/wp-content/plugins/js_composer/assets/lib/prettyphoto/js/jquery.prettyPhoto.min52c7.js?ver=6.0.5'></script>
+	<script type='text/javascript' src='file/wp-content/themes/bridge/js/plugins/jquery.fitvids7263.js?ver=5.4.4'></script>
+	<script type='text/javascript' src='file/wp-content/plugins/js_composer/assets/lib/bower/flexslider/jquery.flexslider-min52c7.js?ver=6.0.5'></script>
+	<script type='text/javascript' src='file/wp-includes/js/mediaelement/mediaelement-and-player.minc270.js?ver=4.2.13-9993131'></script>
+	<script type='text/javascript' src='file/wp-includes/js/mediaelement/mediaelement-migrate.min7263.js?ver=5.4.4'></script>
+	<script type='text/javascript' src='file/wp-includes/js/mediaelement/wp-mediaelement.min7263.js?ver=5.4.4'></script>
+	<script type='text/javascript' src='file/wp-content/themes/bridge/js/plugins/infinitescroll.min7263.js?ver=5.4.4'></script>
+	<script type='text/javascript' src='file/wp-content/themes/bridge/js/plugins/jquery.waitforimages7263.js?ver=5.4.4'></script>
+	<script type='text/javascript' src='file/wp-includes/js/jquery/jquery.form.min50fa.js?ver=4.2.1'></script>
+	<script type='text/javascript' src='file/wp-content/themes/bridge/js/plugins/waypoints.min7263.js?ver=5.4.4'></script>
+	<script type='text/javascript' src='file/wp-content/themes/bridge/js/plugins/jplayer.min7263.js?ver=5.4.4'></script>
+	<script type='text/javascript' src='file/wp-content/themes/bridge/js/plugins/bootstrap.carousel7263.js?ver=5.4.4'></script>
+	<script type='text/javascript' src='file/wp-content/themes/bridge/js/plugins/skrollr7263.js?ver=5.4.4'></script>
+	<script type='text/javascript' src='file/wp-content/themes/bridge/js/plugins/Chart.min7263.js?ver=5.4.4'></script>
+	<script type='text/javascript' src='file/wp-content/themes/bridge/js/plugins/jquery.easing.1.37263.js?ver=5.4.4'></script>
+	<script type='text/javascript' src='file/wp-content/themes/bridge/js/plugins/abstractBaseClass7263.js?ver=5.4.4'></script>
+	<script type='text/javascript' src='file/wp-content/themes/bridge/js/plugins/jquery.countdown7263.js?ver=5.4.4'></script>
+	<script type='text/javascript' src='file/wp-content/themes/bridge/js/plugins/jquery.multiscroll.min7263.js?ver=5.4.4'></script>
+	<script type='text/javascript' src='file/wp-content/themes/bridge/js/plugins/jquery.justifiedGallery.min7263.js?ver=5.4.4'></script>
+	<script type='text/javascript' src='file/wp-content/themes/bridge/js/plugins/bigtext7263.js?ver=5.4.4'></script>
+	<script type='text/javascript' src='file/wp-content/themes/bridge/js/plugins/jquery.sticky-kit.min7263.js?ver=5.4.4'></script>
+	<script type='text/javascript' src='file/wp-content/themes/bridge/js/plugins/owl.carousel.min7263.js?ver=5.4.4'></script>
+	<script type='text/javascript' src='file/wp-content/themes/bridge/js/plugins/typed7263.js?ver=5.4.4'></script>
+	<script type='text/javascript' src='file/wp-content/themes/bridge/js/plugins/jquery.carouFredSel-6.2.1.min7263.js?ver=5.4.4'></script>
+	<script type='text/javascript' src='file/wp-content/themes/bridge/js/plugins/lemmon-slider.min7263.js?ver=5.4.4'></script>
+	<script type='text/javascript' src='file/wp-content/themes/bridge/js/plugins/jquery.fullPage.min7263.js?ver=5.4.4'></script>
+	<script type='text/javascript' src='file/wp-content/themes/bridge/js/plugins/jquery.mousewheel.min7263.js?ver=5.4.4'></script>
+	<script type='text/javascript' src='file/wp-content/themes/bridge/js/plugins/jquery.touchSwipe.min7263.js?ver=5.4.4'></script>
+	<script type='text/javascript' src='file/wp-content/plugins/js_composer/assets/lib/bower/isotope/dist/isotope.pkgd.min52c7.js?ver=6.0.5'></script>
+	<script type='text/javascript' src='file/wp-content/themes/bridge/js/plugins/packery-mode.pkgd.min7263.js?ver=5.4.4'></script>
+	<script type='text/javascript' src='file/wp-content/themes/bridge/js/plugins/jquery.stretch7263.js?ver=5.4.4'></script>
+	<script type='text/javascript' src='file/wp-content/themes/bridge/js/plugins/imagesloaded7263.js?ver=5.4.4'></script>
+	<script type='text/javascript' src='file/wp-content/themes/bridge/js/plugins/rangeslider.min7263.js?ver=5.4.4'></script>
+	<script type='text/javascript' src='file/wp-content/themes/bridge/js/plugins/jquery.event.move7263.js?ver=5.4.4'></script>
+	<script type='text/javascript' src='file/wp-content/themes/bridge/js/plugins/jquery.twentytwenty7263.js?ver=5.4.4'></script>
+	<script type='text/javascript' src='file/wp-content/themes/bridge/js/plugins/TweenLite.min7263.js?ver=5.4.4'></script>
+	<script type='text/javascript' src='file/wp-content/themes/bridge/js/plugins/ScrollToPlugin.min7263.js?ver=5.4.4'></script>
+	<script type='text/javascript' src='file/wp-content/themes/bridge/js/plugins/smoothPageScroll.min7263.js?ver=5.4.4'></script>
+	<script type='text/javascript' src='file/wp-content/themes/bridge/js/default_dynamicc643.js?ver=1596358090'></script>
+	<script type='text/javascript' src='file/wp-content/themes/bridge/js/default.min7263.js?ver=5.4.4'></script>
+	<script type='text/javascript' src='file/wp-includes/js/comment-reply.min7263.js?ver=5.4.4'></script>
+	<script type='text/javascript' src='file/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min52c7.js?ver=6.0.5'></script>
+	<script type='text/javascript' src='file/wp-content/themes/bridge/js/plugins/qode-like.min7263.js?ver=5.4.4'></script>
+	<script type='text/javascript' src='file/wp-includes/js/wp-embed.min7263.js?ver=5.4.4'></script>
 <!--===============================================================================================-->
 	<script src="vendor/jquery/jquery-3.2.1.min.js"></script>
 <!--===============================================================================================-->

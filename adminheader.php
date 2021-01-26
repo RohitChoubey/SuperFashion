@@ -39,7 +39,7 @@
 						</div>
 						<nav class="main_menu drop_down right">
 							<ul id="menu-main-menu" class="">
-								
+								<li id="nav-menu-item-394" class="menu-item menu-item-type-post_type menu-item-object-page  narrow"><a href="AddProduct.php" class=""><i class="menu_icon blank fa"></i><span>Add Product</span><span class="plus"></span></a></li>
 								<li id="nav-menu-item-521" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children  has_sub narrow"><a href="product.php" class=""><i class="menu_icon blank fa"></i><span>Products</span><span class="plus"></span></a>
 									<div class="second">
 										<div class="inner">
@@ -52,11 +52,13 @@
 										</div>
 									</div>
 								</li>
+								<li id="nav-menu-item-394" class="menu-item menu-item-type-post_type menu-item-object-page  narrow"><a href="ChangePass.php" class=""><i class="menu_icon blank fa"></i><span>Change Password</span><span class="plus"></span></a></li>
 								<li id="nav-menu-item-394" class="menu-item menu-item-type-post_type menu-item-object-page  narrow"><a href="logout.php" class=""><i class="menu_icon blank fa"></i><span>Logout</span><span class="plus"></span></a></li>
 							</ul>
 						</nav>
 						<nav class="mobile_menu">
 							<ul id="menu-main-menu-1" class="">
+							<li id="mobile-menu-item-394" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="AddProduct.php" class=""><span>Add Product</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span></li>
 								<li id="mobile-menu-item-521" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children  has_sub"><a href="product.php" class=""><span>Products</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span>
 									<ul class="sub_menu">
 										<li id="mobile-menu-item-520" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="mens.php" class=""><span>Mens</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span></li>
@@ -65,6 +67,7 @@
 										<li id="mobile-menu-item-518" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="fabric.php" class=""><span>Fabrics</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span></li>
 									</ul>
 								</li>
+								<li id="mobile-menu-item-394" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="ChangePass.php" class=""><span>Change Password</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span></li>
 								<li id="mobile-menu-item-394" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="logout.php" class=""><span>Logout</span></a><span class="mobile_arrow"><i class="fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span></li>
 							</ul>
 						</nav>
