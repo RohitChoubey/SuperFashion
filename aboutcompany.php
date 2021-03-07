@@ -303,12 +303,11 @@ nav.main_menu > ul > li > a {
 					<div class="container">
 						<div class="container_inner clearfix">
 								<div class="title_subtitle_holder" >
-                                                                									<div class="title_subtitle_holder_inner">
-																										<h1 ><span>About the Company</span></h1>
+                                    <div class="title_subtitle_holder_inner">
+										<h1 ><span>About the Company</span></h1>
 																	
-																														<h4 class="subtitle"  >Driven by Values, Technology & Responsibility : Consistently Ranked Among Top 500 Companies in India</h4>
-																																													</div>
-								                                                            </div>
+										<h4 class="subtitle"  >Driven by Values, Technology & Responsibility : Consistently Ranked Among Top Companies in India</h4>																													</div>
+								                                                       </div>
 						</div>
 					</div>
 				</div>
@@ -336,7 +335,7 @@ nav.main_menu > ul > li > a {
 
 	<div class="wpb_text_column wpb_content_element ">
 		<div class="wpb_wrapper">
-			<p>Driven by High Principled Values, KPR Mill is one of the largest vertically integrated, public limited &#8211; listed company with diversified business focus spanning across Yarn, Fabrics, Garments and White Crystal Sugar. KPR has earned a great deal of experience over the last 40 years to produce an indelible mark in the textile landscape.</p>
+			<p>Super Fashion is one of India’s foremost and most reliable manufacturers of ready-made garments. We are committed to making high quality knitwear for men, women and kids. We are currently working with numerous brands all over the world, keeping up with the multifarious international trends, styles and seasons. Super Fashion has a production capacity of 2,00,000 units a month and an annual turnover of US$ 10 million.</p>
 
 		</div> 
 	</div> 	<div class="vc_empty_space"  style="height: 12px" ><span
@@ -345,28 +344,28 @@ nav.main_menu > ul > li > a {
 		</span></div>
 
 
-	<div class="wpb_text_column wpb_content_element ">
+	<!-- <div class="wpb_text_column wpb_content_element ">
 		<div class="wpb_wrapper">
 			<p>Manufacturing an impressive product range of textile varieties such as Readymade Knitted Apparel; Fabrics; Compact, Melange, Carded, Polyster and Combed Yarn, KPR Mill reaches out to global customers with diligence, superior quality and delivery excellence.</p>
 
 		</div> 
-	</div> </div></div></div></div></div></div><div      class="vc_row wpb_row section vc_row-fluid  grid_section" style=' text-align:left;'><div class=" section_inner clearfix"><div class='section_inner_margin clearfix'><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">	<div class="vc_empty_space"  style="height: 32px" ><span
+	</div> --> </div></div></div></div></div></div><div      class="vc_row wpb_row section vc_row-fluid  grid_section" style=' text-align:left;'><div class=" section_inner clearfix"><div class='section_inner_margin clearfix'><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">	<div class="vc_empty_space"  style="height: 32px" ><span
 			class="vc_empty_space_inner">
 			<span class="empty_space_image"  ></span>
 		</span></div>
 
 
-	<div class="wpb_text_column wpb_content_element ">
+	<!-- <div class="wpb_text_column wpb_content_element ">
 		<div class="wpb_wrapper">
 			<h3 style="text-align: center;">KPR Mill Strategic Business Model</h3>
 
 		</div> 
-	</div> </div></div></div></div></div></div><div      class="vc_row wpb_row section vc_row-fluid  grid_section" style=' text-align:left;'><div class=" section_inner clearfix"><div class='section_inner_margin clearfix'><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner"><div class="wpb_wrapper">	<div class="vc_empty_space"  style="height: 32px" ><span
+	</div> --> </div></div></div></div></div></div><div      class="vc_row wpb_row section vc_row-fluid  grid_section" style=' text-align:left;'><div class=" section_inner clearfix"><div class='section_inner_margin clearfix'><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner"><div class="wpb_wrapper">	<div class="vc_empty_space"  style="height: 32px" ><span
 			class="vc_empty_space_inner">
 			<span class="empty_space_image"  ></span>
 		</span></div>
 
-<div class='service_table_holder' style='border-style:solid;border-width:2px;border-color:#f9f9f9;'><ul class='service_table_inner'><li class='service_table_title_holder background_color_type' style='background-color: #023368;'><div class='service_table_title_inner'><div class='service_table_title_inner2'><h4 class='service_title' style='color: #f9f9f9;'>TECHNOLOGY FOCUS</h4></div></div></li><li class='service_table_content' style='background-color: #99ccff;'></p>
+<div class='service_table_holder' style='border-style:solid;border-width:2px;border-color:#f9f9f9;'><!-- <ul class='service_table_inner'><li class='service_table_title_holder background_color_type' style='background-color: #023368;'><div class='service_table_title_inner'><div class='service_table_title_inner2'><h4 class='service_title' style='color: #f9f9f9;'>TECHNOLOGY FOCUS</h4></div></div></li><li class='service_table_content' style='background-color: #99ccff;'></p>
 <h6 style="padding: 20px 0 20px 0;">Leaving No Stone Unturned.</h6>
 <p><strong>Cutting-edge technology equipment and tools everywhere.</strong></p>
 <ul>
@@ -376,12 +375,12 @@ nav.main_menu > ul > li > a {
 <li>Digitally Transformed</li>
 <li>Frequent Technology Upgradation</li>
 </ul>
-<p></li></ul></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner"><div class="wpb_wrapper">	<div class="vc_empty_space"  style="height: 32px" ><span
+<p></li></ul> --></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner"><div class="wpb_wrapper">	<div class="vc_empty_space"  style="height: 32px" ><span
 			class="vc_empty_space_inner">
 			<span class="empty_space_image"  ></span>
 		</span></div>
 
-<div class='service_table_holder' style='border-style:solid;border-width:2px;border-color:#f9f9f9;'><ul class='service_table_inner'><li class='service_table_title_holder background_color_type' style='background-color: #023368;'><div class='service_table_title_inner'><div class='service_table_title_inner2'><h4 class='service_title' style='color: #f9f9f9;'>PRODUCT SUPREMACY</h4></div></div></li><li class='service_table_content' style='background-color: #99ccff;'></p>
+<div class='service_table_holder' style='border-style:solid;border-width:2px;border-color:#f9f9f9;'><!-- <ul class='service_table_inner'><li class='service_table_title_holder background_color_type' style='background-color: #023368;'><div class='service_table_title_inner'><div class='service_table_title_inner2'><h4 class='service_title' style='color: #f9f9f9;'>PRODUCT SUPREMACY</h4></div></div></li><li class='service_table_content' style='background-color: #99ccff;'></p>
 <h6 style="padding: 20px 0 20px 0;">Comfort and value for money.</h6>
 <p><strong>Manufacturing a leading range of supreme quality products for all customer segments.</strong></p>
 <ul>
@@ -390,12 +389,12 @@ nav.main_menu > ul > li > a {
 <li>Healthy, safe and<br />
 comfortable.</li>
 </ul>
-<p></li></ul></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner"><div class="wpb_wrapper">	<div class="vc_empty_space"  style="height: 32px" ><span
+<p></li></ul --></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner"><div class="wpb_wrapper">	<div class="vc_empty_space"  style="height: 32px" ><span
 			class="vc_empty_space_inner">
 			<span class="empty_space_image"  ></span>
 		</span></div>
 
-<div class='service_table_holder' style='border-style:solid;border-width:2px;border-color:#f9f9f9;'><ul class='service_table_inner'><li class='service_table_title_holder background_color_type' style='background-color: #023368;'><div class='service_table_title_inner'><div class='service_table_title_inner2'><h4 class='service_title' style='color: #f9f9f9;'>EMPOWERED PEOPLE</h4></div></div></li><li class='service_table_content' style='background-color: #99ccff;'></p>
+<div class='service_table_holder' style='border-style:solid;border-width:2px;border-color:#f9f9f9;'><!-- <ul class='service_table_inner'><li class='service_table_title_holder background_color_type' style='background-color: #023368;'><div class='service_table_title_inner'><div class='service_table_title_inner2'><h4 class='service_title' style='color: #f9f9f9;'>EMPOWERED PEOPLE</h4></div></div></li><li class='service_table_content' style='background-color: #99ccff;'></p>
 <h6 style="padding: 20px 0 20px 0;">Industry experts and seasoned professionals.</h6>
 <p><strong>Helping customers with knowledgeable, ready-to-help experts.</strong></p>
 <ul>
@@ -403,7 +402,7 @@ comfortable.</li>
 <li>Facilitating ownership, responsibility and opportunity.</li>
 <li>Conducive atmosphere to innovate, excel and better serve.</li>
 </ul>
-<p></li></ul></div></div></div></div></div></div></div><div      class="vc_row wpb_row section vc_row-fluid  grid_section" style=' text-align:left;'><div class=" section_inner clearfix"><div class='section_inner_margin clearfix'><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner"><div class="wpb_wrapper">	<div class="vc_empty_space"  style="height: 32px" ><span
+<p></li></ul> --></div></div></div></div></div></div></div><div      class="vc_row wpb_row section vc_row-fluid  grid_section" style=' text-align:left;'><div class=" section_inner clearfix"><div class='section_inner_margin clearfix'><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner"><div class="wpb_wrapper">	<div class="vc_empty_space"  style="height: 32px" ><span
 			class="vc_empty_space_inner">
 			<span class="empty_space_image"  ></span>
 		</span></div>
@@ -411,7 +410,7 @@ comfortable.</li>
 
 	<div class="wpb_text_column wpb_content_element ">
 		<div class="wpb_wrapper">
-			<h3>Future-focused Initiatives</h3>
+			<h3>Quality</h3>
 
 		</div> 
 	</div> 	<div class="vc_empty_space"  style="height: 21px" ><span
@@ -423,10 +422,9 @@ comfortable.</li>
 	<div class="wpb_text_column wpb_content_element ">
 		<div class="wpb_wrapper">
 			<ul>
-<li><strong>Active Automation.</strong> Leveraging technology through automations across all departments.</li>
-<li><strong>Expanding Horizons.</strong> Establishment of a state-of-the-art garment manufacturing facility at Ethiopia.</li>
-<li><strong>New Ventures. </strong>Foray into retail market to promote KPR Mill garments and ready-to-wear apparels.</li>
-<li><strong>People-friendly.</strong> Empowering employees through ultra-modern facilities and higher education opportunities.</li>
+<li>We are a Government Recognized Export House, certified by SGS. Since our establishment in 1989, our Mission has been ‘to create and to deliver exceptional quality at the right time and at the right price’. Our design, sampling, production, checking and packing teams strive for perfection and this dedication permeates every aspect of our manufacturing process.</li>
+<li>
+We have received awards from Companies such as May stores, Greg Norman, Pepe Jeans & Aditya Birla Retail for outstanding quality and delivery performance. We at Super Fashion continue to stand by each and every garment that we make.</li>
 </ul>
 
 		</div> 
@@ -462,7 +460,7 @@ comfortable.</li>
 
 	<div class="wpb_text_column wpb_content_element ">
 		<div class="wpb_wrapper">
-			<h3>Why KPR &#8211; Key Strengths</h3>
+			<h3>Social Commitment</h3>
 
 		</div> 
 	</div> 	<div class="vc_empty_space"  style="height: 21px" ><span
@@ -475,31 +473,7 @@ comfortable.</li>
 		<div class="wpb_wrapper">
 			<p><strong>Close to 4 Decades of Rock-Solid Experience &amp; Location Advantage</strong></p>
 <ul>
-<li>Enterprising management team with rich experience in Textile and Apparel industry.</li>
-<li>Strategically located near Tirupur – Asia&#8217;s Largest Knitwear Cluster.</li>
-</ul>
-<p>&nbsp;</p>
-<p><strong>Impressive Product Range</strong></p>
-<ul>
-<li>Unique customer-focused products.</li>
-<li>Yarn, Fabrics, Garments and White Crystal Sugar.</li>
-</ul>
-<p>&nbsp;</p>
-<p><strong>Quality Assurance – in Every Aspect </strong></p>
-<ul>
-<li>Excellence: Right from procuring raw materials till final delivery of products.</li>
-<li>Adherence to:<br />
-stringent quality norms, government regulations and international standards.</li>
-</ul>
-<p>&nbsp;</p>
-<p><strong>Multitude of Infrastructural Advantages</strong></p>
-<ul>
-<li>Vertically integrated operations.</li>
-<li>Advanced technology machineries and state-of-the-art plant.</li>
-<li>Strong and dedicated workforce.</li>
-<li>Global scale of operations.</li>
-<li>Trusted client base, both National &amp; International.</li>
-<li>Substantial self-sufficiency in power needs through green power generation by windmills.</li>
+<li>The Social Security, Welfare, Health & Safety of the Employees is our top priority. Wages are paid EQUALLY to men and women, we employ ‘NO CHILD LABOUR’, we abide by authorized working hours. Leaves and compensation to employees are given fulfilling all Legal and State regulations.</li>
 </ul>
 
 		</div> 

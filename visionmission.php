@@ -336,7 +336,7 @@ nav.main_menu > ul > li > a {
 	<div class="wpb_text_column wpb_content_element ">
 		<div class="wpb_wrapper">
 			<h5>Vision</h5>
-<p>Quality’ – The Maxim of KPR</p>
+<p>Quality’ – The Maxim of Super Fashion</p>
 
 		</div> 
 	</div> <div class='q_list circle'></p>

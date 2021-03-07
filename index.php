@@ -840,7 +840,7 @@
 													<div class="wpb_wrapper">
 														<div class="wpb_text_column wpb_content_element ">
 															<div class="wpb_wrapper">
-																<h3><span style="color: #ffffff;">Our Products</span></h3> </div>
+																<h3><span style="color: ##023368;">Our Products</span></h3> </div>
 														</div>
 														<div class="vc_empty_space" style="height: 65px"><span class="vc_empty_space_inner">
 			<span class="empty_space_image"  ></span> </span>

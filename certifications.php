@@ -335,7 +335,7 @@
 														<div class="wpb_text_column wpb_content_element ">
 															<div class="wpb_wrapper">
 																<h5>International Accreditations</h5>
-																<p>End-to-end quality initiatives and consistent technology upgradation garnered International accreditation&#8217;s:</p>
+																<p>Abiding by our quality norms, Super Fashion is a socially, technically and CT-PAT Compliant by various third party audit agencies and by our direct buyers. We are approved by:</p>
 															</div>
 														</div>
 													</div>

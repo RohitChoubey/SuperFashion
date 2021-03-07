@@ -23,7 +23,7 @@
 
 
 
-Super Fashion is one of India’s foremost and most reliable manufacturers of ready-made garments. We are committed to making high quality knitwear for mens, womens and kids. We are currently working with numerous brands all over the world, keeping up with the multifarious international trends, styles and seasons. Super Fashion has a production capacity of 1, 50,000 units a month and an annual turnover of US$ 11 million.
+Super Fashion is one of India’s foremost and most reliable manufacturers of ready-made garments. We are committed to making high quality knitwear for men, women and kids. We are currently working with numerous brands all over the world, keeping up with the multifarious international trends, styles and seasons. Super Fashion has a production capacity of 2,00,000 units a month and an annual turnover of US$ 10 million.
 
 	<div class="vc_empty_space"  style="height: 24px" ><span
 			class="vc_empty_space_inner">

@@ -389,9 +389,8 @@
 													</div>
 													<div class="wpb_text_column wpb_content_element ">
 														<div class="wpb_wrapper">
-															<p>Super Fashion has installed an ETP with capabilities to treat 5 mn litres/day, which enables the company to reuse 100% of the waste water to the process again. Zero discharge systems are achieved as per PCB norms.</p>
-															<p>&nbsp;</p>
-															<p>Through these measures, Super Fashion is committed to protect the fragile eco-system of the planet, which is our gift to our children, our future. Our ETP stands tall as a model recycling facility in this part of the world.</p>
+															<p>We have taken few initiatives for saving the environment by going green & reducing carbon footprints.  All waste water is treated through Effluent Treatment plant before discharge. Condensate Recovery System recycles the steam water & RO wastage water is Recycled by a softner plant which is reused in various forms. Rain  Water Harvesting to control depleting ground water level.</p>
+																
 														</div>
 													</div>
 												</div>
@@ -441,7 +440,7 @@
 														<div class="wpb_wrapper">
 															<h5>Solar Power Plant</h5>
 															<p>&nbsp;</p>
-															<p>Super Fashion, in its progressive move to generate power in eco-friendly ways and also become self-reliant in electricity production, has installed solar pannel in the organization.</p>
+															<p>Super Fashion installed  Solar Panels which provide 40 KiloWatt energy. All our sewing machines are equipped with Servo Motors which saves electricity during idle time. We run our boilers on PNG which is eco friendly. Super Fashion takes a pledge to increase it’s contribution for sustainability.</p>
 															
 														</div>
 													</div>

@@ -335,10 +335,10 @@
 										<div class="wpb_column vc_column_container vc_col-sm-12">
 											<div class="vc_column-inner">
 												<div class="wpb_wrapper">
-													<div class="wpb_text_column wpb_content_element ">
+													<!-- <div class="wpb_text_column wpb_content_element ">
 														<div class="wpb_wrapper">
 															<h5 style="text-align: center;">The fore vision and enterprising efforts of KPR leaders has resulted in one of the India’s largest vertically integrated Apparel manufacturing Companies. Right from day one, KPR is consistently driven by values, ethics and principles.</h5> </div>
-													</div>
+													</div> -->
 													<div class="vc_row wpb_row section vc_row-fluid vc_inner " style=' text-align:left;'>
 														<div class=" full_section_inner clearfix">
 															<div class="wpb_column vc_column_container vc_col-sm-12">
@@ -349,9 +349,9 @@
 																				<div class="qode-workflow-item-inner ">
 																					<div class="qode-workflow-image center"> <img width="634" height="289" src="file/wp-content/uploads/2020/03/1984.jpg" class="attachment-full size-full" alt="" srcset="https://kprmilllimited.com/file/wp-content/uploads/2020/03/1984.jpg 634w, https://kprmilllimited.com/file/wp-content/uploads/2020/03/1984-300x137.jpg 300w" sizes="(max-width: 634px) 100vw, 634px" /> </div>
 																					<div class="qode-workflow-text"> <span class="circle" style="background-color:#1e73be;"></span>
-																						<h3>1984</h3>
+																						<h3>1989</h3>
 																						<h5 class="qode-workflow-subtitle">Foundation</h5>
-																						<p class="text">Maiden business at Coimbatore, India</p>
+																						<p class="text">Super Fashion was founded in 1989 by Mr. Madan Kukreja. Since our establishment, he has been mobilizing a team of hard core professionals of the garment industry. Mr. Madan Kukreja has set high standards of honesty, enthusiasm and hark work for us to follow in Super Fashion.</p>
 																					</div>
 																				</div>
 																			</div>
@@ -363,259 +363,7 @@
 																					<div class="qode-workflow-text"> <span class="circle" style="background-color:#1e73be;"></span>
 																						<h3>1989</h3>
 																						<h5 class="qode-workflow-subtitle">First Steps</h5>
-																						<p class="text">Knitted garment export at Tirupur.</p>
-																					</div>
-																				</div>
-																			</div>
-																		</div>
-																		<div class="qode-workflow  qode-workflow-animate"> <span class="main-line" style="background-color:#99ccff;"></span>
-																			<div class="qode-workflow-item"> <span class="line" style="background-color:#1e73be;"></span>
-																				<div class="qode-workflow-item-inner ">
-																					<div class="qode-workflow-image center"> <img width="634" height="289" src="file/wp-content/uploads/2020/03/spinning-1995-1.jpg" class="attachment-full size-full" alt="" srcset="https://kprmilllimited.com/file/wp-content/uploads/2020/03/spinning-1995-1.jpg 634w, https://kprmilllimited.com/file/wp-content/uploads/2020/03/spinning-1995-1-300x137.jpg 300w" sizes="(max-width: 634px) 100vw, 634px" /> </div>
-																					<div class="qode-workflow-text"> <span class="circle" style="background-color:#1e73be;"></span>
-																						<h3>1995</h3>
-																						<h5 class="qode-workflow-subtitle">First Steps</h5>
-																						<p class="text">First spinning unit at Sathyamangalam with 6,000 spindles. Increased to 30,240 spindles by 1999</p>
-																					</div>
-																				</div>
-																			</div>
-																		</div>
-																		<div class="qode-workflow  qode-workflow-animate"> <span class="main-line" style="background-color:#99ccff;"></span>
-																			<div class="qode-workflow-item"> <span class="line" style="background-color:#1e73be;"></span>
-																				<div class="qode-workflow-item-inner reverse">
-																					<div class="qode-workflow-image center"> <img width="634" height="289" src="file/wp-content/uploads/2020/03/2001-spinning-1.jpg" class="attachment-full size-full" alt="" srcset="https://kprmilllimited.com/file/wp-content/uploads/2020/03/2001-spinning-1.jpg 634w, https://kprmilllimited.com/file/wp-content/uploads/2020/03/2001-spinning-1-300x137.jpg 300w" sizes="(max-width: 634px) 100vw, 634px" /> </div>
-																					<div class="qode-workflow-text"> <span class="circle" style="background-color:#1e73be;"></span>
-																						<h3>2001</h3>
-																						<h5 class="qode-workflow-subtitle">Business Expansion</h5>
-																						<p class="text">Spinning mill at Karumathampatti with 30,240 spindles; Knitting facility &amp; Wind mill for captive use</p>
-																					</div>
-																				</div>
-																			</div>
-																		</div>
-																		<div class="qode-workflow  qode-workflow-animate"> <span class="main-line" style="background-color:#99ccff;"></span>
-																			<div class="qode-workflow-item"> <span class="line" style="background-color:#1e73be;"></span>
-																				<div class="qode-workflow-item-inner ">
-																					<div class="qode-workflow-image center"> <img width="634" height="289" src="file/wp-content/uploads/2020/03/spinning-2003.jpg" class="attachment-full size-full" alt="" srcset="https://kprmilllimited.com/file/wp-content/uploads/2020/03/spinning-2003.jpg 634w, https://kprmilllimited.com/file/wp-content/uploads/2020/03/spinning-2003-300x137.jpg 300w" sizes="(max-width: 634px) 100vw, 634px" /> </div>
-																					<div class="qode-workflow-text"> <span class="circle" style="background-color:#1e73be;"></span>
-																						<h3>2003</h3>
-																						<h5 class="qode-workflow-subtitle">Business Expansion</h5>
-																						<p class="text">Spinning unit at Neelambur with 50,784 spindles; Knitting facility &amp; Wind mill</p>
-																					</div>
-																				</div>
-																			</div>
-																		</div>
-																		<div class="qode-workflow  qode-workflow-animate"> <span class="main-line" style="background-color:#99ccff;"></span>
-																			<div class="qode-workflow-item"> <span class="line" style="background-color:#1e73be;"></span>
-																				<div class="qode-workflow-item-inner reverse">
-																					<div class="qode-workflow-image center"> <img width="634" height="289" src="file/wp-content/uploads/2020/03/evolution-2005.jpg" class="attachment-full size-full" alt="" srcset="https://kprmilllimited.com/file/wp-content/uploads/2020/03/evolution-2005.jpg 634w, https://kprmilllimited.com/file/wp-content/uploads/2020/03/evolution-2005-300x137.jpg 300w" sizes="(max-width: 634px) 100vw, 634px" /> </div>
-																					<div class="qode-workflow-text"> <span class="circle" style="background-color:#1e73be;"></span>
-																						<h3>2005</h3>
-																						<h5 class="qode-workflow-subtitle">Business Expansion &amp; Alternative Energy Initiatives</h5>
-																						<p class="text">At Arasur 1,00,800 spindles; Knitting facility, Garment Unit and Wind Mills</p>
-																					</div>
-																				</div>
-																			</div>
-																		</div>
-																		<div class="qode-workflow  qode-workflow-animate"> <span class="main-line" style="background-color:#99ccff;"></span>
-																			<div class="qode-workflow-item"> <span class="line" style="background-color:#1e73be;"></span>
-																				<div class="qode-workflow-item-inner ">
-																					<div class="qode-workflow-image center"> <img width="634" height="289" src="file/wp-content/uploads/2020/03/2006-1.jpg" class="attachment-full size-full" alt="" srcset="https://kprmilllimited.com/file/wp-content/uploads/2020/03/2006-1.jpg 634w, https://kprmilllimited.com/file/wp-content/uploads/2020/03/2006-1-300x137.jpg 300w" sizes="(max-width: 634px) 100vw, 634px" /> </div>
-																					<div class="qode-workflow-text"> <span class="circle" style="background-color:#1e73be;"></span>
-																						<h3>2006</h3>
-																						<h5 class="qode-workflow-subtitle">Global Majors Investments</h5>
-																						<p class="text">Private Equity participation by leading US Corporate ‘Brandot Investments’ &amp; Two others - $ 25 Mn</p>
-																					</div>
-																				</div>
-																			</div>
-																		</div>
-																		<div class="qode-workflow  qode-workflow-animate"> <span class="main-line" style="background-color:#99ccff;"></span>
-																			<div class="qode-workflow-item"> <span class="line" style="background-color:#1e73be;"></span>
-																				<div class="qode-workflow-item-inner reverse">
-																					<div class="qode-workflow-image center"> <img width="634" height="289" src="file/wp-content/uploads/2020/03/2007.jpg" class="attachment-full size-full" alt="" srcset="https://kprmilllimited.com/file/wp-content/uploads/2020/03/2007.jpg 634w, https://kprmilllimited.com/file/wp-content/uploads/2020/03/2007-300x137.jpg 300w" sizes="(max-width: 634px) 100vw, 634px" /> </div>
-																					<div class="qode-workflow-text"> <span class="circle" style="background-color:#1e73be;"></span>
-																						<h3>2007</h3>
-																						<h5 class="qode-workflow-subtitle">Public Listing</h5>
-																						<p class="text">IPO at a premium. Shares Listed at Bombay &amp; National Stock Exchanges, India</p>
-																					</div>
-																				</div>
-																			</div>
-																		</div>
-																		<div class="qode-workflow  qode-workflow-animate"> <span class="main-line" style="background-color:#99ccff;"></span>
-																			<div class="qode-workflow-item"> <span class="line" style="background-color:#1e73be;"></span>
-																				<div class="qode-workflow-item-inner ">
-																					<div class="qode-workflow-image center"> <img width="634" height="289" src="file/wp-content/uploads/2020/03/2010.jpg" class="attachment-full size-full" alt="" srcset="https://kprmilllimited.com/file/wp-content/uploads/2020/03/2010.jpg 634w, https://kprmilllimited.com/file/wp-content/uploads/2020/03/2010-300x137.jpg 300w" sizes="(max-width: 634px) 100vw, 634px" /> </div>
-																					<div class="qode-workflow-text"> <span class="circle" style="background-color:#1e73be;"></span>
-																						<h3>2010</h3>
-																						<h5 class="qode-workflow-subtitle">Business Expansion &amp; Alternative Energy Initiatives</h5>
-																						<p class="text">Expansion of value-added Compact Spinning with 1,03,680 spindles at Karumathampatti besides upgrading green energy through windmill.</p>
-																					</div>
-																				</div>
-																			</div>
-																		</div>
-																		<div class="qode-workflow  qode-workflow-animate"> <span class="main-line" style="background-color:#99ccff;"></span>
-																			<div class="qode-workflow-item"> <span class="line" style="background-color:#1e73be;"></span>
-																				<div class="qode-workflow-item-inner reverse">
-																					<div class="qode-workflow-image center"> <img width="634" height="289" src="file/wp-content/uploads/2020/03/2011.jpg" class="attachment-full size-full" alt="" srcset="https://kprmilllimited.com/file/wp-content/uploads/2020/03/2011.jpg 634w, https://kprmilllimited.com/file/wp-content/uploads/2020/03/2011-300x137.jpg 300w" sizes="(max-width: 634px) 100vw, 634px" /> </div>
-																					<div class="qode-workflow-text"> <span class="circle" style="background-color:#1e73be;"></span>
-																						<h3>2011</h3>
-																						<h5 class="qode-workflow-subtitle">Modernisation cum expansion</h5>
-																						<p class="text">At Sathyamangalam Mill, enhancing spindles to 51,456.</p>
-																					</div>
-																				</div>
-																			</div>
-																		</div>
-																		<div class="qode-workflow  qode-workflow-animate"> <span class="main-line" style="background-color:#99ccff;"></span>
-																			<div class="qode-workflow-item"> <span class="line" style="background-color:#1e73be;"></span>
-																				<div class="qode-workflow-item-inner ">
-																					<div class="qode-workflow-image center"> <img width="634" height="289" src="file/wp-content/uploads/2020/03/2012.jpg" class="attachment-full size-full" alt="" srcset="https://kprmilllimited.com/file/wp-content/uploads/2020/03/2012.jpg 634w, https://kprmilllimited.com/file/wp-content/uploads/2020/03/2012-300x137.jpg 300w" sizes="(max-width: 634px) 100vw, 634px" /> </div>
-																					<div class="qode-workflow-text"> <span class="circle" style="background-color:#1e73be;"></span>
-																						<h3>2012</h3>
-																						<h5 class="qode-workflow-subtitle">Modernisation cum expansion</h5>
-																						<p class="text">Melange yarn project with 16,128 spindles at Karumathampatti.</p>
-																					</div>
-																				</div>
-																			</div>
-																		</div>
-																		<div class="qode-workflow  qode-workflow-animate"> <span class="main-line" style="background-color:#99ccff;"></span>
-																			<div class="qode-workflow-item"> <span class="line" style="background-color:#1e73be;"></span>
-																				<div class="qode-workflow-item-inner reverse">
-																					<div class="qode-workflow-image center"> <img width="634" height="289" src="file/wp-content/uploads/2020/03/2013.jpg" class="attachment-full size-full" alt="" srcset="https://kprmilllimited.com/file/wp-content/uploads/2020/03/2013.jpg 634w, https://kprmilllimited.com/file/wp-content/uploads/2020/03/2013-300x137.jpg 300w" sizes="(max-width: 634px) 100vw, 634px" /> </div>
-																					<div class="qode-workflow-text"> <span class="circle" style="background-color:#1e73be;"></span>
-																						<h3>2013</h3>
-																						<h5 class="qode-workflow-subtitle">Sugar cum Co-gen</h5>
-																						<p class="text">Co-gen cum Sugar Plant at Karnataka – 30 MW and 5000 TCD capacity.</p>
-																					</div>
-																				</div>
-																			</div>
-																		</div>
-																		<div class="qode-workflow  qode-workflow-animate"> <span class="main-line" style="background-color:#99ccff;"></span>
-																			<div class="qode-workflow-item"> <span class="line" style="background-color:#1e73be;"></span>
-																				<div class="qode-workflow-item-inner ">
-																					<div class="qode-workflow-image center"> <img width="634" height="289" src="file/wp-content/uploads/2020/03/2014.jpg" class="attachment-full size-full" alt="" srcset="https://kprmilllimited.com/file/wp-content/uploads/2020/03/2014.jpg 634w, https://kprmilllimited.com/file/wp-content/uploads/2020/03/2014-300x137.jpg 300w" sizes="(max-width: 634px) 100vw, 634px" /> </div>
-																					<div class="qode-workflow-text"> <span class="circle" style="background-color:#1e73be;"></span>
-																						<h3>2014</h3>
-																						<h5 class="qode-workflow-subtitle">Expansion</h5>
-																						<p class="text">Expanded Garment capacity at Arasur by 10 Million pieces.</p>
-																					</div>
-																				</div>
-																			</div>
-																		</div>
-																		<div class="qode-workflow  qode-workflow-animate"> <span class="main-line" style="background-color:#99ccff;"></span>
-																			<div class="qode-workflow-item"> <span class="line" style="background-color:#1e73be;"></span>
-																				<div class="qode-workflow-item-inner reverse">
-																					<div class="qode-workflow-image center"> <img width="634" height="289" src="file/wp-content/uploads/2020/03/garments.jpg" class="attachment-full size-full" alt="" srcset="https://kprmilllimited.com/file/wp-content/uploads/2020/03/garments.jpg 634w, https://kprmilllimited.com/file/wp-content/uploads/2020/03/garments-300x137.jpg 300w" sizes="(max-width: 634px) 100vw, 634px" /> </div>
-																					<div class="qode-workflow-text"> <span class="circle" style="background-color:#1e73be;"></span>
-																						<h3>2015</h3>
-																						<h5 class="qode-workflow-subtitle">Fully Air Conditioned</h5>
-																						<p class="text">New green field Garment capacity at Thekkalur with 12 Million pieces.</p>
-																					</div>
-																				</div>
-																			</div>
-																		</div>
-																		<div class="qode-workflow  qode-workflow-animate"> <span class="main-line" style="background-color:#99ccff;"></span>
-																			<div class="qode-workflow-item"> <span class="line" style="background-color:#1e73be;"></span>
-																				<div class="qode-workflow-item-inner ">
-																					<div class="qode-workflow-image center"> <img width="634" height="289" src="file/wp-content/uploads/2020/03/2016.jpg" class="attachment-full size-full" alt="" srcset="https://kprmilllimited.com/file/wp-content/uploads/2020/03/2016.jpg 634w, https://kprmilllimited.com/file/wp-content/uploads/2020/03/2016-300x137.jpg 300w" sizes="(max-width: 634px) 100vw, 634px" /> </div>
-																					<div class="qode-workflow-text"> <span class="circle" style="background-color:#1e73be;"></span>
-																						<h3>2016</h3>
-																						<h5 class="qode-workflow-subtitle">Expansion</h5>
-																						<p class="text">Established New green field garment facility of 36 Mn garments.</p>
-																					</div>
-																				</div>
-																			</div>
-																		</div>
-																		<div class="qode-workflow  qode-workflow-animate"> <span class="main-line" style="background-color:#99ccff;"></span>
-																			<div class="qode-workflow-item"> <span class="line" style="background-color:#1e73be;"></span>
-																				<div class="qode-workflow-item-inner reverse">
-																					<div class="qode-workflow-image center"> <img width="634" height="289" src="file/wp-content/uploads/2020/03/2016-2017.jpg" class="attachment-full size-full" alt="" srcset="https://kprmilllimited.com/file/wp-content/uploads/2020/03/2016-2017.jpg 634w, https://kprmilllimited.com/file/wp-content/uploads/2020/03/2016-2017-300x137.jpg 300w" sizes="(max-width: 634px) 100vw, 634px" /> </div>
-																					<div class="qode-workflow-text"> <span class="circle" style="background-color:#1e73be;"></span>
-																						<h3>2017</h3>
-																						<h5 class="qode-workflow-subtitle">Environment-friendly Process through Technology</h5>
-																						<p class="text">Established new Ecofriendly Processing capacity with Advanced Technology - 9000 MT. Established Sophisticated high resolution printing division – 7500 MT</p>
-																					</div>
-																				</div>
-																			</div>
-																		</div>
-																		<div class="qode-workflow  qode-workflow-animate"> <span class="main-line" style="background-color:#99ccff;"></span>
-																			<div class="qode-workflow-item"> <span class="line" style="background-color:#1e73be;"></span>
-																				<div class="qode-workflow-item-inner ">
-																					<div class="qode-workflow-image center"> <img width="634" height="289" src="file/wp-content/uploads/2020/03/2017.jpg" class="attachment-full size-full" alt="" srcset="https://kprmilllimited.com/file/wp-content/uploads/2020/03/2017.jpg 634w, https://kprmilllimited.com/file/wp-content/uploads/2020/03/2017-300x137.jpg 300w" sizes="(max-width: 634px) 100vw, 634px" /> </div>
-																					<div class="qode-workflow-text"> <span class="circle" style="background-color:#1e73be;"></span>
-																						<h3>2018</h3>
-																						<h5 class="qode-workflow-subtitle">Technology Enablement</h5>
-																						<p class="text">Established 10 Million Garment Manufacturing unit at Mekelle, Ethiopia.</p>
-																					</div>
-																				</div>
-																			</div>
-																		</div>
-																		<div class="qode-workflow  qode-workflow-animate"> <span class="main-line" style="background-color:#99ccff;"></span>
-																			<div class="qode-workflow-item"> <span class="line" style="background-color:#1e73be;"></span>
-																				<div class="qode-workflow-item-inner reverse">
-																					<div class="qode-workflow-image center"> <img width="634" height="289" src="file/wp-content/uploads/2020/08/pro.png" class="attachment-full size-full" alt="" srcset="https://kprmilllimited.com/file/wp-content/uploads/2020/08/pro.png 634w, https://kprmilllimited.com/file/wp-content/uploads/2020/08/pro-300x137.png 300w" sizes="(max-width: 634px) 100vw, 634px" /> </div>
-																					<div class="qode-workflow-text"> <span class="circle" style="background-color:#1e73be;"></span>
-																						<h3>2019</h3>
-																						<h5 class="qode-workflow-subtitle">Expansion : Processing</h5>
-																						<p class="text">Increased Processing capacity by 4000 MT</p>
-																					</div>
-																				</div>
-																			</div>
-																		</div>
-																		<div class="qode-workflow  qode-workflow-animate"> <span class="main-line" style="background-color:#99ccff;"></span>
-																			<div class="qode-workflow-item"> <span class="line" style="background-color:#1e73be;"></span>
-																				<div class="qode-workflow-item-inner ">
-																					<div class="qode-workflow-image center"> <img width="634" height="289" src="file/wp-content/uploads/2020/08/brown-field-garment.png" class="attachment-full size-full" alt="" srcset="https://kprmilllimited.com/file/wp-content/uploads/2020/08/brown-field-garment.png 634w, https://kprmilllimited.com/file/wp-content/uploads/2020/08/brown-field-garment-300x137.png 300w" sizes="(max-width: 634px) 100vw, 634px" /> </div>
-																					<div class="qode-workflow-text"> <span class="circle" style="background-color:#1e73be;"></span>
-																						<h3>2019</h3>
-																						<h5 class="qode-workflow-subtitle">Garment Expansion</h5>
-																						<p class="text">Brown field garment expansion by 10 Mn Garments</p>
-																					</div>
-																				</div>
-																			</div>
-																		</div>
-																		<div class="qode-workflow  qode-workflow-animate"> <span class="main-line" style="background-color:#99ccff;"></span>
-																			<div class="qode-workflow-item"> <span class="line" style="background-color:#1e73be;"></span>
-																				<div class="qode-workflow-item-inner reverse">
-																					<div class="qode-workflow-image center"> <img width="634" height="289" src="file/wp-content/uploads/2020/08/ethanol.png" class="attachment-full size-full" alt="" srcset="https://kprmilllimited.com/file/wp-content/uploads/2020/08/ethanol.png 634w, https://kprmilllimited.com/file/wp-content/uploads/2020/08/ethanol-300x137.png 300w" sizes="(max-width: 634px) 100vw, 634px" /> </div>
-																					<div class="qode-workflow-text"> <span class="circle" style="background-color:#1e73be;"></span>
-																						<h3>2019</h3>
-																						<h5 class="qode-workflow-subtitle">Ethanol Plant and Expansion</h5>
-																						<p class="text">Setup 120 KLPD Ethanol Plant at Karnataka. Sugar Mill capacity expanded to 10000 TCD</p>
-																					</div>
-																				</div>
-																			</div>
-																		</div>
-																		<div class="qode-workflow  qode-workflow-animate"> <span class="main-line" style="background-color:#99ccff;"></span>
-																			<div class="qode-workflow-item"> <span class="line" style="background-color:#1e73be;"></span>
-																				<div class="qode-workflow-item-inner ">
-																					<div class="qode-workflow-image center"> <img width="634" height="289" src="file/wp-content/uploads/2020/08/faso.png" class="attachment-full size-full" alt="" srcset="https://kprmilllimited.com/file/wp-content/uploads/2020/08/faso.png 634w, https://kprmilllimited.com/file/wp-content/uploads/2020/08/faso-300x137.png 300w" sizes="(max-width: 634px) 100vw, 634px" /> </div>
-																					<div class="qode-workflow-text"> <span class="circle" style="background-color:#1e73be;"></span>
-																						<h3>2019</h3>
-																						<h5 class="qode-workflow-subtitle">Our Brand</h5>
-																						<p class="text">Retail segment : ‘FASO’ 100% Organic Cotton Men’s innerwear launched</p>
-																					</div>
-																				</div>
-																			</div>
-																		</div>
-																		<div class="qode-workflow  qode-workflow-animate"> <span class="main-line" style="background-color:#99ccff;"></span>
-																			<div class="qode-workflow-item"> <span class="line" style="background-color:#1e73be;"></span>
-																				<div class="qode-workflow-item-inner reverse">
-																					<div class="qode-workflow-image center"> <img width="634" height="289" src="file/wp-content/uploads/2020/08/singapore.png" class="attachment-full size-full" alt="" srcset="https://kprmilllimited.com/file/wp-content/uploads/2020/08/singapore.png 634w, https://kprmilllimited.com/file/wp-content/uploads/2020/08/singapore-300x137.png 300w" sizes="(max-width: 634px) 100vw, 634px" /> </div>
-																					<div class="qode-workflow-text"> <span class="circle" style="background-color:#1e73be;"></span>
-																						<h3>2019</h3>
-																						<h5 class="qode-workflow-subtitle">Singapore Office</h5>
-																						<p class="text">To enlarge export activities in Asia, established a Wholly owned Subsidiary Company at Singapore</p>
-																					</div>
-																				</div>
-																			</div>
-																		</div>
-																		<div class="qode-workflow  qode-workflow-animate"> <span class="main-line" style="background-color:#99ccff;"></span>
-																			<div class="qode-workflow-item"> <span class="line" style="background-color:#1e73be;"></span>
-																				<div class="qode-workflow-item-inner ">
-																					<div class="qode-workflow-image center"> </div>
-																					<div class="qode-workflow-text"> <span class="circle" style="background-color:#1e73be;"></span>
-																						<h3>2020</h3>
-																						<h5 class="qode-workflow-subtitle">Expansion</h5>
-																						<p class="text">Sugar cum Ethanol Business in Karnataka :with Sugar - 10,000 TCD :47.50 MW :230 KLPD , Garment Capacity Expansion in Tamil Nadu with 42 million Garments per Annum</p>
+																						<p class="text">Super Fashion and its various units are led and integrated today by Mr. Sidhartha Kukreja. Keeping up with the changes in garment production and buyer requirements, Mr. Sidhartha Kukreja strives to make Super Fashion a Company of Today.</p>
 																					</div>
 																				</div>
 																			</div>
