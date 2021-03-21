@@ -359,10 +359,10 @@
 																		<div class="qode-workflow  qode-workflow-animate"> <span class="main-line" style="background-color:#99ccff;"></span>
 																			<div class="qode-workflow-item"> <span class="line" style="background-color:#1e73be;"></span>
 																				<div class="qode-workflow-item-inner reverse">
-																					<div class="qode-workflow-image center"> <img width="634" height="289" src="file/wp-content/uploads/2020/03/knitting-1989.jpg" class="attachment-full size-full" alt="" srcset="https://kprmilllimited.com/file/wp-content/uploads/2020/03/knitting-1989.jpg 634w, https://kprmilllimited.com/file/wp-content/uploads/2020/03/knitting-1989-300x137.jpg 300w" sizes="(max-width: 634px) 100vw, 634px" /> </div>
+																					<div class="qode-workflow-image center"> <img width="634" height="289" src="file/wp-content/uploads/2020/03/Ceo.jpg" class="attachment-full size-full" alt=""sizes="(max-width: 634px) 100vw, 634px" /> </div>
 																					<div class="qode-workflow-text"> <span class="circle" style="background-color:#1e73be;"></span>
-																						<h3>1989</h3>
-																						<h5 class="qode-workflow-subtitle">First Steps</h5>
+																						<h3></h3>
+																						<h5 class="qode-workflow-subtitle">CEO of Super Fashion</h5>
 																						<p class="text">Super Fashion and its various units are led and integrated today by Mr. Sidhartha Kukreja. Keeping up with the changes in garment production and buyer requirements, Mr. Sidhartha Kukreja strives to make Super Fashion a Company of Today.</p>
 																					</div>
 																				</div>

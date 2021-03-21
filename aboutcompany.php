@@ -324,7 +324,7 @@ nav.main_menu > ul > li > a {
 	<div class="wpb_single_image wpb_content_element vc_align_left">
 		<div class="wpb_wrapper">
 			
-			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="535" height="238" src="file/wp-content/uploads/2019/03/About-Beyond-Boundries.jpg" class="vc_single_image-img attachment-full" alt="" srcset="https://kprmilllimited.com/file/wp-content/uploads/2019/03/About-Beyond-Boundries.jpg 535w, https://kprmilllimited.com/file/wp-content/uploads/2019/03/About-Beyond-Boundries-300x133.jpg 300w" sizes="(max-width: 535px) 100vw, 535px" /></div>
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="535" height="238" src="file/wp-content/uploads/2019/03/About-Beyond-Boundries.jpg" class="vc_single_image-img attachment-full" alt=""  sizes="(max-width: 535px) 100vw, 535px" /></div>
 		</div>
 	</div>
 </div></div></div><div class="wpb_column vc_column_container vc_col-sm-4 vc_col-lg-6 vc_col-md-6"><div class="vc_column-inner"><div class="wpb_wrapper">	<div class="vc_empty_space"  style="height: 12px" ><span
@@ -437,10 +437,10 @@ We have received awards from Companies such as May stores, Greg Norman, Pepe Jea
 	<div class="wpb_single_image wpb_content_element vc_align_left">
 		<div class="wpb_wrapper">
 			
-			<div class="vc_single_image-wrapper   vc_box_border_grey"><img class="vc_single_image-img " src="file/wp-content/uploads/2020/08/IMG_20200809_110227-scaled-535x270.jpg" width="535" height="270" alt="IMG_20200809_110227" title="IMG_20200809_110227" /></div>
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img class="vc_single_image-img " src="file/wp-content/uploads/2019/03/_MG_9899.jpg" width="535" height="270" alt="IMG_20200809_110227" title="IMG_20200809_110227" /></div>
 		</div>
 	</div>
-</div></div></div></div></div></div><div      class="vc_row wpb_row section vc_row-fluid  vc_custom_1589525860619 grid_section" style=' text-align:left;'><div class=" section_inner clearfix"><div class='section_inner_margin clearfix'><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner"><div class="wpb_wrapper">	<div class="vc_empty_space"  style="height: 32px" ><span
+</div></div></div></div></div></div><div  class="vc_row wpb_row section vc_row-fluid  vc_custom_1589525860619 grid_section" style=' text-align:left;'><div class=" section_inner clearfix"><div class='section_inner_margin clearfix'><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner"><div class="wpb_wrapper">	<div class="vc_empty_space"  style="height: 32px" ><span
 			class="vc_empty_space_inner">
 			<span class="empty_space_image"  ></span>
 		</span></div>
@@ -449,7 +449,7 @@ We have received awards from Companies such as May stores, Greg Norman, Pepe Jea
 	<div class="wpb_single_image wpb_content_element vc_align_left">
 		<div class="wpb_wrapper">
 			
-			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="535" height="670" src="file/wp-content/uploads/2019/03/About-GARMENTS.jpg" class="vc_single_image-img attachment-full" alt="" srcset="https://kprmilllimited.com/file/wp-content/uploads/2019/03/About-GARMENTS.jpg 535w, https://kprmilllimited.com/file/wp-content/uploads/2019/03/About-GARMENTS-240x300.jpg 240w" sizes="(max-width: 535px) 100vw, 535px" /></div>
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="535" height="670" src="file/wp-content/uploads/2019/03/_MG_9878.jpg" class="vc_single_image-img attachment-full" alt="" sizes="(max-width: 535px) 100vw, 535px" /></div>
 		</div>
 	</div>
 </div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner"><div class="wpb_wrapper">	<div class="vc_empty_space"  style="height: 32px" ><span

@@ -2,12 +2,9 @@
 <html lang="en-US">
 <head>
 	<meta charset="UTF-8" />
-	
-				<meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
-		
-            
-                        <link rel="shortcut icon" type="image/x-icon" href="file/wp-content/uploads/2018/09/favicon.png">
-            <link rel="apple-touch-icon" href="file/wp-content/uploads/2018/09/favicon.png"/>
+	<meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">   
+	<link rel="shortcut icon" type="image/x-icon" href="file/wp-content/uploads/2018/09/favicon.png">
+	<link rel="apple-touch-icon" href="file/wp-content/uploads/2018/09/favicon.png"/>
         
 	<link rel="profile" href="http://gmpg.org/xfn/11" />
 	<link rel="pingback" href="file/xmlrpc.php" />
@@ -324,7 +321,7 @@ nav.main_menu > ul > li > a {
 	<div class="wpb_single_image wpb_content_element vc_align_left">
 		<div class="wpb_wrapper">
 			
-			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="536" height="244" src="file/wp-content/uploads/2020/08/vision.png" class="vc_single_image-img attachment-full" alt="" srcset="https://kprmilllimited.com/file/wp-content/uploads/2020/08/vision.png 536w, https://kprmilllimited.com/file/wp-content/uploads/2020/08/vision-300x137.png 300w" sizes="(max-width: 536px) 100vw, 536px" /></div>
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="536" height="244" src="file/wp-content/uploads/2019/03/VisionStatement.png" class="vc_single_image-img attachment-full" alt=""  sizes="(max-width: 536px) 100vw, 536px" /></div>
 		</div>
 	</div>
 </div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner"><div class="wpb_wrapper">	<div class="vc_empty_space"  style="height: 32px" ><span
@@ -374,7 +371,7 @@ nav.main_menu > ul > li > a {
 	<div class="wpb_single_image wpb_content_element vc_align_left">
 		<div class="wpb_wrapper">
 			
-			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="536" height="244" src="file/wp-content/uploads/2020/08/mission.png" class="vc_single_image-img attachment-full" alt="" srcset="https://kprmilllimited.com/file/wp-content/uploads/2020/08/mission.png 536w, https://kprmilllimited.com/file/wp-content/uploads/2020/08/mission-300x137.png 300w" sizes="(max-width: 536px) 100vw, 536px" /></div>
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="536" height="244" src="file/wp-content/uploads/2019/03/our-mission.png" class="vc_single_image-img attachment-full" alt="" sizes="(max-width: 536px) 100vw, 536px" /></div>
 		</div>
 	</div>
 </div></div></div></div></div></div><div      class="vc_row wpb_row section vc_row-fluid " style=' text-align:left;'><div class=" full_section_inner clearfix"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">	<div class="vc_empty_space"  style="height: 32px" ><span
@@ -394,18 +391,10 @@ nav.main_menu > ul > li > a {
 	
 </div>
 </div>
-<script type='text/javascript'>
-/* <![CDATA[ */
-var wpcf7 = {"apiSettings":{"root":"https:\/\/kprmilllimited.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
-/* ]]> */
-</script>
+
 <script type='text/javascript' src='file/wp-content/plugins/contact-form-7/includes/js/scripts7752.js?ver=5.2.1'></script>
 <script type='text/javascript' src='file/wp-content/plugins/stock-ticker/assets/js/jquery.webticker.min1f44.js?ver=2.2.0.1'></script>
-<script type='text/javascript'>
-/* <![CDATA[ */
-var stockTickerJs = {"ajax_url":"https:\/\/kprmilllimited.com\/file\/wp-admin\/admin-ajax.php"};
-/* ]]> */
-</script>
+
 <script type='text/javascript' src='file/wp-content/plugins/stock-ticker/assets/js/jquery.stockticker.min128b.js?ver=3.1'></script>
 <script type='text/javascript' src='file/wp-includes/js/jquery/ui/core.mine899.js?ver=1.11.4'></script>
 <script type='text/javascript' src='file/wp-includes/js/jquery/ui/widget.mine899.js?ver=1.11.4'></script>
@@ -510,23 +499,8 @@ var _wpmejsSettings = {"pluginPath":"\/file\/wp-includes\/js\/mediaelement\/","c
 <script type='text/javascript' src='file/wp-content/themes/bridge/js/plugins/ScrollToPlugin.min7263.js?ver=5.4.4'></script>
 <script type='text/javascript' src='file/wp-content/themes/bridge/js/plugins/smoothPageScroll.min7263.js?ver=5.4.4'></script>
 <script type='text/javascript' src='file/wp-content/themes/bridge/js/default_dynamicc643.js?ver=1596358090'></script>
-<script type='text/javascript'>
-/* <![CDATA[ */
-var QodeAdminAjax = {"ajaxurl":"https:\/\/kprmilllimited.com\/file\/wp-admin\/admin-ajax.php"};
-var qodeGlobalVars = {"vars":{"qodeAddingToCartLabel":"Adding to Cart...","page_scroll_amount_for_sticky":""}};
-/* ]]> */
-</script>
-<script type='text/javascript' src='file/wp-content/themes/bridge/js/default.min7263.js?ver=5.4.4'></script>
-<script type='text/javascript' src='file/wp-includes/js/comment-reply.min7263.js?ver=5.4.4'></script>
-<script type='text/javascript' src='file/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min52c7.js?ver=6.0.5'></script>
-<script type='text/javascript'>
-/* <![CDATA[ */
-var qodeLike = {"ajaxurl":"https:\/\/kprmilllimited.com\/file\/wp-admin\/admin-ajax.php"};
-/* ]]> */
-</script>
+
 <script type='text/javascript' src='file/wp-content/themes/bridge/js/plugins/qode-like.min7263.js?ver=5.4.4'></script>
 <script type='text/javascript' src='file/wp-includes/js/wp-embed.min7263.js?ver=5.4.4'></script>
 </body>
-
-<!-- Mirrored from kprmilllimited.com/vision-mission/ by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 03 Jan 2021 07:25:37 GMT -->
 </html>

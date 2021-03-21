@@ -462,8 +462,8 @@
 
 	<div class="wpb_single_image wpb_content_element vc_align_left">
 		<div class="wpb_wrapper">
-			
-			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="238" height="251" src="file/wp-content/uploads/2020/11/Leftside-Img-1_fb79b8cc3b7d1ca158367f5c7d60fb43.jpg" class="vc_single_image-img attachment-full" alt="" /></div>
+
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img style="width:350px; height:280px;" src="file/wp-content/uploads/2020/11/DJI_0018.jpg" class="vc_single_image-img attachment-full" alt="" /></div>
 		</div>
 	</div>
 </div></div></div></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-3 vc_col-md-3"><div class="vc_column-inner"><div class="wpb_wrapper"><div class='q_elements_holder one_column responsive_mode_from_768 ' ><div class='q_elements_item data-600-768='0 0 23px 0' data-480-600='0 0 13px 0' data-480='0 0 13px 0' data-animation='no' data-item-class='q_elements_holder_custom_120816' style='vertical-align:top;'>
@@ -481,7 +481,7 @@
 																			<div class="vc_column-inner">
 																				<div class="wpb_wrapper">
 																					<div class='q_elements_holder one_column responsive_mode_from_768'>
-																						<div class='q_elements_item  data-480-600=' 0 0 33px 0 ' data-480='0 0 33px 0 ' data-animation='no ' data-item-class='q_elements_holder_custom_477341 ' style='vertical-align:top; '>
+																						<div class='q_elements_item  data-480-600= 0 0 33px 0 ' data-480='0 0 33px 0 ' data-animation='no ' data-item-class='q_elements_holder_custom_477341 ' style='vertical-align:top; '>
 <div class='q_elements_item_inner '><div class='q_elements_item_content q_elements_holder_custom_477341 ' style='padding:0 0 0 0 '>
 	<div class="wpb_text_column wpb_content_element ">
 		<div class="wpb_wrapper">
@@ -513,26 +513,26 @@
 			<span class="empty_space_image"  ></span>
 		</span></div>
 
-</div></div></div></div></div></div></div><div class="text-align-center wpb_column vc_column_container vc_col-sm-6 vc_col-lg-3 vc_col-md-3"><div class="vc_column-inner"><div class="wpb_wrapper"><div class='q_elements_holder one_column responsive_mode_from_768 alignment_one_column_center ' ><div class='q_elements_item data-animation='no' data-item-class='q_elements_holder_custom_160972' style='background-image: url(file/wp-content/uploads/2016/09/tab-image-1.jpg);background-position: center;vertical-align:middle;'>
+</div></div></div></div></div></div></div><div class="text-align-center wpb_column vc_column_container vc_col-sm-6 vc_col-lg-3 vc_col-md-3"><div class="vc_column-inner"><div class="wpb_wrapper"><div class='q_elements_holder one_column responsive_mode_from_768 alignment_one_column_center ' ><div class='q_elements_item data-animation='no' data-item-class='q_elements_holder_custom_160972'>
 																							<div class='q_elements_item_inner'>
 																								<div class='q_elements_item_content q_elements_holder_custom_160972' style='padding:46px 0 44px'>
 																									<div class="wpb_text_column wpb_content_element ">
-																										<div class="wpb_wrapper">
-																											<h3 style="text-align: center;"><span style="color: #ffffff;">Share Online</span></h3> </div>
+																										<!--<div class="wpb_wrapper">
+																											<h3 style="text-align: center;"><span style="color: #ffffff;">Share Online</span></h3> </div>-->
 																									</div>
 																									<div class="vc_empty_space" style="height: 15px"><span class="vc_empty_space_inner">
 			<span class="empty_space_image"  ></span> </span>
 																									</div>
-																									<div class="wpb_single_image wpb_content_element vc_align_center">
+																									<!--<div class="wpb_single_image wpb_content_element vc_align_center">
 																										<div class="wpb_wrapper">
 																											<a href="#" target="_blank">
 																												<div class="vc_single_image-wrapper   vc_box_border_grey"> <img width="163" height="38" src="file/wp-content/uploads/2020/08/nse-btn.png" class="vc_single_image-img attachment-full" alt="" /></div>
 																											</a>
 																										</div>
-																									</div>
+																									</div>-->
 																									<div class="vc_empty_space" style="height: 37px"><span class="vc_empty_space_inner">
 			<span class="empty_space_image"  ></span> </span>
-																									</div> <a itemprop="url" href="#" target="_blank" class="qbutton  small center default" style="">Explore</a></div>
+																									</div> <!--<a itemprop="url" href="#" target="_blank" class="qbutton  small center default" style="">Explore</a>--></div>
 																							</div>
 																						</div>
 																					</div>
@@ -948,18 +948,17 @@
 											<div class="vc_column-inner">
 												<div class="wpb_wrapper">
 													<div class="qode-elliptical-slider">
-														<div class="qode-elliptical-slider-slides" data-autoplay=n o>
-															<div class="qode-elliptical-slide" style="background-image:url(file/wp-content/uploads/2019/11/green-initiative.jpg)">
-																<div class="qode-elliptical-slide-image-holder-wrapper" style="background-color:#023368"> <span class="qode-elliptical-slide-image-holder">
-            <img src="file/wp-content/uploads/2019/11/green-initiative.jpg" alt="qode-eliptic-slider"/>
+														<div class="qode-elliptical-slider-slides" data-autoplay=no>
+															<div class="qode-elliptical-slide" style="height:550px; width:100%; background-image:url(file/wp-content/uploads/2019/11/green-initiative.png)">
+																<div class="qode-elliptical-slide-image-holder-wrapper" style="background-color:#023368"> <span class="qode-elliptical-slide-image-holder" style="height:130px;width:10px; margin-left:500px;">
+            <img src="file/wp-content/uploads/2019/11/green-initiative.png" alt="qode-eliptic-slider"/>
         </span> </div>
 																<div class="qode-elliptical-slide-content-holder" style="background: -webkit-linear-gradient(left, #023368 50%, transparent 50%);background: linear-gradient(90deg, #023368 50%, transparent 50%);">
 																	<div class="qode-elliptical-slide-content-holder-inner grid_section">
 																		<div class="qode-elliptical-slide-content-wrapper section_inner">
 																			<div class="qode-elliptical-slide-wrapper-inner">
 																				<div class="qode-elliptical-slide-svg-holder">
-																					<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="92.296px" height="485px" viewBox="0 0 92.296 492" enable-background="new 0 0 92.296 492" preserveAspectRatio="none">
-																						<path style="fill:#023368" d="M91.621,0H0v492h92.296C47.988,426.806,21,340.351,21,245.5C21,151.133,47.716,65.078,91.621,0z" /> </svg>
+																					
 																				</div>
 																				<div class="qode-elliptical-slide-elements-holder">
 																					<div class="wpb_text_column wpb_content_element ">
