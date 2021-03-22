@@ -368,27 +368,32 @@
 				<span class="login100-form-title p-b-37">
 					Change Password
 				</span>
-<div class="message" style="color:red;" ><b><?php if(isset($message)) { echo $message; } ?></b></div>
+<div class="message" style="color:red;" ><b><?php /*if(isset($message)) { echo $message; }*/ ?></b></div>
 				<div class="wrap-input100 validate-input m-b-20" data-validate="Enter Password">
-					<input class="input100" type="text" name="currentPassword" placeholder="Enter Current Password">
-					<span class="focus-input100" id="currentPassword"></span>
+					<input class="input100" type="password" name="currentPassword" placeholder="Enter Current Password">
+					<span class="focus-input100" ></span>
 				</div>
+				<div id="currentPassword" style="color: red;"></div>
 
 				<div class="wrap-input100 validate-input m-b-25" data-validate = "Enter password">
 					<input class="input100" type="password" name="newPassword" placeholder="New Password">
-					<span class="focus-input100" id="newPassword"></span>
+					<span class="focus-input100"></span>
 				</div>
+				<div id="newPassword" style="color: red;"></div>
 
 				<div class="wrap-input100 validate-input m-b-25" data-validate = "Enter password">
 					<input class="input100" type="password" name="confirmPassword" placeholder="Confirm Password">
-					<span class="focus-input100" id="confirmPassword"></span>
+					<span class="focus-input100" ></span>
+
 				</div>
 
 				<div class="container-login100-form-btn">
-					<button class="login100-form-btn" name="submit">
+					<button class="login100-form-btn" name="submit" id="submit_id">
 						Update Password
 					</button>
 				</div>
+				<div style="color:red;" id ="confirmPassword"></div>
+				<div class="message" style="color:red;" ><b><?php if(isset($message)) { echo $message; } ?></b></div>
 			</form>
 
 			
@@ -405,24 +410,24 @@
 
 		if(!currentPassword.value) {
 			currentPassword.focus();
-			document.getElementById("currentPassword").innerHTML = "required";
+			document.getElementById("currentPassword").innerHTML = "Cureent Password is required";
 			output = false;
 		}
 		else if(!newPassword.value) {
 			newPassword.focus();
-			document.getElementById("newPassword").innerHTML = "required";
+			document.getElementById("newPassword").innerHTML = "New Password is required";
 			output = false;
 		}
 		else if(!confirmPassword.value) {
 			confirmPassword.focus();
-			document.getElementById("confirmPassword").innerHTML = "required";
+			document.getElementById("confirmPassword").innerHTML = "Confirm Password is+ required";
 			output = false;
 		}
 		if(newPassword.value != confirmPassword.value) {
 			newPassword.value="";
 			confirmPassword.value="";
 			newPassword.focus();
-			document.getElementById("confirmPassword").innerHTML = "Not Same";
+			document.getElementById("confirmPassword").innerHTML = "New Password and Confirm Password must be same";
 			output = false;
 		} 	
 		return output;
@@ -436,8 +441,8 @@
 <!--===============================================================================================-->
 	<script src="vendor/animsition/js/animsition.min.js"></script>
 <!--===============================================================================================-->
-	<script src="vendor/bootstrap/js/popper.js"></script>
-	<script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+	<!-- <script src="vendor/bootstrap/js/popper.js"></script>
+	<script src="vendor/bootstrap/js/bootstrap.min.js"></script> -->
 <!--===============================================================================================-->
 	<script src="vendor/select2/select2.min.js"></script>
 <!--===============================================================================================-->
@@ -447,6 +452,5 @@
 	<script src="vendor/countdowntime/countdowntime.js"></script>
 <!--===============================================================================================-->
 	<script src="js/main.js"></script>
-
 </body>
 </html>
