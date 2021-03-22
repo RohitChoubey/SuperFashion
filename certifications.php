@@ -511,7 +511,7 @@
 												<div class="vc_column-inner">
 													<div class="wpb_wrapper">
 														<div class="vc_empty_space" style="height: 32px"><span class="vc_empty_space_inner">
-			<span class="empty_space_image"  ></span> </span>
+															<span class="empty_space_image"  ></span> </span>
 														</div>
 														<div class="wpb_text_column wpb_content_element ">
 															<div class="wpb_wrapper">
@@ -519,7 +519,7 @@
 															</div>
 														</div>
 														<div class="vc_empty_space" style="height: 15px"><span class="vc_empty_space_inner">
-			<span class="empty_space_image"  ></span> </span>
+														<span class="empty_space_image"  ></span> </span>
 														</div>
 														<div class="wpb_single_image wpb_content_element vc_align_left">
 															<div class="wpb_wrapper">
@@ -527,11 +527,41 @@
 															</div>
 														</div>
 														<div class="vc_empty_space" style="height: 15px"><span class="vc_empty_space_inner">
-			<span class="empty_space_image"  ></span> </span>
+														<span class="empty_space_image"  ></span> </span>
 														</div>
 														<div class="wpb_text_column wpb_content_element ">
 															<div class="wpb_wrapper">
 																<p><strong>Initiative : </strong>Certified and recognized as a Trading House.</p>
+															</div>
+														</div>
+													</div>
+												</div>
+											</div>
+											<div class="wpb_column vc_column_container vc_col-sm-6">
+												<div class="vc_column-inner">
+													<div class="wpb_wrapper">
+														<div class="vc_empty_space" style="height: 32px"><span class="vc_empty_space_inner">
+															<span class="empty_space_image"  ></span> </span>
+														</div>
+														<div class="wpb_text_column wpb_content_element ">
+															<div class="wpb_wrapper">
+																<p><strong>Certification/Organization:BSCI Code of Conduct by SGS</strong></p>
+															</div>
+														</div>
+														<div class="vc_empty_space" style="height: 15px"><span class="vc_empty_space_inner">
+														<span class="empty_space_image"  ></span> </span>
+														</div>
+														<div class="wpb_single_image wpb_content_element vc_align_left">
+															<div class="wpb_wrapper">
+																<div class="vc_single_image-wrapper vc_box_border  vc_box_border_grey"><img width="500" height="226" src="file/wp-content/uploads/2020/03/BSCI.jpg" class="vc_single_image-img attachment-full" alt=""  sizes="(max-width: 500px) 100vw, 500px" /></div>
+															</div>
+														</div>
+														<div class="vc_empty_space" style="height: 15px"><span class="vc_empty_space_inner">
+														<span class="empty_space_image"  ></span> </span>
+														</div>
+														<div class="wpb_text_column wpb_content_element ">
+															<div class="wpb_wrapper">
+																<p><strong>Initiative : </strong>Certified and recognized as a Business Social Compliance Initiative</p>
 															</div>
 														</div>
 													</div>
