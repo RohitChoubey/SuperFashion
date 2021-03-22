@@ -358,7 +358,7 @@
 				</span>
 
 				<div class="wrap-input100 validate-input m-b-20">
-				<select class="input100" name="category">
+				<select class="input100" name="category" id="file">
 					<option>Select Product Category</option>
 					<option value="men">Mens</option>
 					<option value="women">Womens</option>
@@ -375,7 +375,7 @@
 				</div>
 
 				<div class="container-login100-form-btn">
-					<button class="login100-form-btn">
+					<button class="login100-form-btn" id="but_upload">
 						Submit
 					</button>
 				</div>
@@ -384,9 +384,39 @@
 			
 		</div>
 	</div>
-	
-	
+	<!-- <script type="text/javascript">
+		$(document).ready(function(){
 
+		    $("#but_upload").click(function(){
+
+		        var fd = new FormData();
+		        var files = $('#file')[0].files;
+		        
+		        // Check file selected or not
+		        if(files.length > 0 ){
+		           fd.append('file',files[0]);
+
+		           $.ajax({
+		              url: 'upload.php',
+		              type: 'post',
+		              data: fd,
+		              contentType: false,
+		              processData: false,
+		              success: function(response){
+		                 if(response != 0){
+		                    $("#img").attr("src",response); 
+		                    $(".preview img").show(); // Display image element
+		                 }else{
+		                    alert('file not uploaded');
+		                 }
+		              },
+		           });
+		        }else{
+		           alert("Please select a file.");
+		        }
+		    });
+			});
+	</script> -->
 	<div id="dropDownSelect1"></div>
 	
 	<script type='text/javascript' src='file/wp-content/plugins/contact-form-7/includes/js/scripts7752.js?ver=5.2.1'></script>
